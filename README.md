@@ -49,8 +49,9 @@ Run the executable:
 
 ## Notes
 
-– Tasks are saved in tasks.json.
-– Colored output supported for status (✔ Done / ⧗ Pending).
-– Designed for learning and practicing C++ CLI + file handling + JSON.
+- Tasks are saved in `tasks.json`.
+- Colored output supported for status (✔ Done / ⧗ Pending).
+- Designed for learning and practicing C++ CLI + file handling + JSON.
 
 ---
+
